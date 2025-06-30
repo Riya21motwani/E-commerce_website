@@ -2,8 +2,6 @@
 
 A full-stack e-commerce platform offering a seamless shopping experience with product browsing, secure payments, and efficient order management.
 
-## **Live Server**  
-[Forever E-commerce Website Frontend](https://ecommerce-app-frontend-two.vercel.app)
 
 ## **Features**
 - **User-Friendly Interface:** Modern, responsive design for a seamless user experience.  
