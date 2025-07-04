@@ -1,4 +1,4 @@
-# **Forever - E-commerce Website Frontend**
+# **Forever - E-Commerce Website Frontend**
 
 A full-stack e-commerce platform offering a seamless shopping experience with product browsing, secure payments, and efficient order management.
 
@@ -13,4 +13,4 @@ A full-stack e-commerce platform offering a seamless shopping experience with pr
 - **Frontend Framework:** React.js  
 - **Styling:** Tailwind CSS, Vite  
 - **State Management:** React Context API  
-- **API Integration:** Axios for seamless communication with the backend.  
+- **API Integration:** Axios for seamless communication with the backend. 
